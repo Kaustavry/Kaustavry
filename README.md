@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaustavry
 - 👀 I’m interested in machine learning and its applications
-- 🌱 I’m currently learning c++, dsa, web development
-- 💞️ I’m looking to collaborate on projects related to web and app development,macjine learning
+- 🌱 I’m currently learning C++, dsa, web development
+- 💞️ I’m looking to collaborate on projects related to web development and machine learning
 - 📫 How to reach me roykaustav700059@gmail.com
 
 <!---
